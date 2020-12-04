@@ -1,0 +1,6 @@
+# Project exclude paths
+/software_game_cli/target/
+/software_game_commons/target/
+/software_game_server/target/
+.idea
+*.iml
